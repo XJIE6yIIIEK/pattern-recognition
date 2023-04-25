@@ -1,0 +1,6 @@
+PatternRecognition/bin
+PatternRecognition/bin/*
+
+PatternRecognition/obj/Debug
+
+.vs/
